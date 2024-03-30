@@ -1,1 +1,1 @@
-# SEProj
+# QA Search website using Django
